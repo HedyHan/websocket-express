@@ -1,6 +1,6 @@
 # Chat feature
 a simple chat feature.
 
-Client: ExpressJS , ws
+Client: ExpressJS , HTML5 WebSocket
 
-Server: HTML5 WebSocket
+Server: ws
