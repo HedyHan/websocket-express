@@ -13,6 +13,7 @@
   "author": "Hedy Han",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "ws": "^3.0.0"
   }
 }
